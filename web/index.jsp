@@ -12,5 +12,11 @@
   </head>
   <body>
   hello from monitoring tool
+
+  <form action="someaction" method="get">
+    <input type="submit" value="execute">
+  </form>
+
+
   </body>
 </html>
