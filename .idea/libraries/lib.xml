@@ -1,7 +1,9 @@
 <component name="libraryTable">
-  <library name="mysql-connector-java-5.1.39-bin">
+  <library name="lib">
     <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/servlet-api.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-5.1.39-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ganymed-ssh-2-build260.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
