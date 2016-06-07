@@ -60,6 +60,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="vladislav savko" />
         <option value="vladisalv savko" />
       </list>
     </option>
@@ -819,7 +820,7 @@
       <updated>1465284084524</updated>
       <workItem from="1465284086454" duration="679000" />
       <workItem from="1465288460927" duration="1531000" />
-      <workItem from="1465291726171" duration="4558000" />
+      <workItem from="1465291726171" duration="4571000" />
     </task>
     <task id="LOCAL-00001" summary="commit from local&#10;">
       <created>1465288741320</created>
@@ -842,15 +843,22 @@
       <option name="project" value="LOCAL" />
       <updated>1465306000516</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added basic's for interraction with server&#10;">
+      <created>1465306178888</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1465306178888</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6768000" />
+    <option name="totallyTimeSpent" value="6781000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="738" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
